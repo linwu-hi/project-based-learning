@@ -51,9 +51,7 @@
 - [实现一个键值存储](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - 微型 3D 图形项目
   - [Tiny Renderer 或者 OpenGL 是如何工作的：500 行代码的软件渲染](https://github.com/ssloy/tinyrenderer/wiki)
-  - [256 行
-
-纯 C++ 理解光线追踪](https://github.com/ssloy/tinyraytracer/wiki)
+  - [256 行纯 C++ 理解光线追踪](https://github.com/ssloy/tinyraytracer/wiki)
   - [180 行 C++：一个周末的老式 FPS](https://github.com/ssloy/tinykaboom/wiki)
   - [486 行 C++：一个周末的老式射击游戏](https://github.com/ssloy/tinyraycaster/wiki)
 - 使用 C++ 写一个最小的 x86-64 JIT 编译器
@@ -76,9 +74,7 @@
   - [第 5 部分：局部变量](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
   - [第 6 部分：条件语句](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
   - [第 7 部分：复合语句](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
-  - [
-
-第 8 部分：循环](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
+  - [第 8 部分：循环](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
   - [第 9 部分：函数](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
   - [第 10 部分：全局变量](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
 - [使用 LLVM 实现一种语言](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
@@ -100,9 +96,7 @@
   - [第 6 部分：源代码级别的单步调试](https://blog.tartanllama.xyz/writing-a-linux-debugger-dwarf-step/)
   - [第 7 部分：源代码级别的断点](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-break/)
   - [第 8 部分：堆栈展开](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
-  - [第 9 部分：处理变量](https://blog.tartanllama.xyz/writing-a-linux
-
--debugger-variables/)
+  - [第 9 部分：处理变量](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
   - [第 10 部分：高级主题](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
 - 让我们写一个编译器
   - [第 1 部分：介绍、选择一种语言和做一些规划](https://briancallahan.net/blog/20210814.html)
@@ -131,9 +125,7 @@
   - [第 3 部分 - 事件驱动](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
   - [第 4 部分 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
   - [第 5 部分 - Redis 案例研究](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
-  - [第 6 部分 - 回调、Promises 和 async/await](https://
-
-eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
+  - [第 6 部分 - 回调、Promises 和 async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
 
 - 从零开始构建一个 MQTT 代理
   - [第 1 部分 - 协议](https://codepr.github.io/posts/sol-mqtt-broker)
@@ -207,9 +199,7 @@ eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyn
 - [使用 Mocha、React、Redux 和 Immutable 构建一个完整的电影投票应用](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [使用 React 和 Node 构建一个 Twitter 流应用](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [使用 React.js 和 Node.js 构建一个简单的 Medium 克隆](https://medium.com/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878)
-- [集成 MailChimp](https
-
-://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
+- [集成 MailChimp](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
 - [用 React + Parcel 构建一个 Chrome 扩展](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 - [用 React Native 构建一个 ToDo 应用](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 - [制作一个聊天应用](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
@@ -231,9 +221,7 @@ eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyn
   - [第 5 部分](https://www.youtube.com/watch?v=lpba9vBqXl0)
   - [第 6 部分](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
   - [第 7 部分](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
-- [React Phone E-Commerce 项目（视频）](https
-
-://www.youtube.com/watch?v=-edmQKcOW8s)
+- [React Phone E-Commerce 项目（视频）](https://www.youtube.com/watch?v=-edmQKcOW8s)
 
 #### Angular:
 
@@ -264,9 +252,7 @@ eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyn
 
 #### Vue
 
-- [Vue 2 + Firebase：如何在 15 分钟内使用 Vue 构建具有 Firebase 认
-
-证系统的应用](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
+- [Vue 2 + Firebase：如何在 15 分钟内使用 Vue 构建具有 Firebase 认证系统的应用](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 - [Vue.js 应用程序教程 - 使用 Vue 创建一个简单的预算应用](https://matthiashager.com/complete-vuejs-application-tutorial/)
 - [使用 Vue、GraphQL 和 Apollo 构建一个博客 Web 应用](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
 - 使用 MEVN（MongoDB、Express、Vue、Node）堆栈构建一个完整的全栈 Web 应用程序
@@ -299,9 +285,7 @@ eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyn
 
 ### 桌面应用程序:
 
-- [使用 React 和 Electron 构建一个桌面聊天应用](https://medium.freecode
-
-camp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
+- [使用 React 和 Electron 构建一个桌面聊天应用](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
 
 ### 其他:
 
@@ -396,9 +380,7 @@ camp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
 - [从头开始用 Python 编写线性回归](https://www.youtube.com/watch?v=uwwWVAgJBcM)（视频）
 - [逐步进行 Python 机器学习](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 - [预测葡萄酒的质量](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
-- [解决水果分类问题](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits
-
--lovers-edition-d20ab6b071d2)
+- [解决水果分类问题](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
 - [学习无监督学习（Unsupervised Learning）](https://scikit-learn.org/stable/unsupervised_learning.html)
 - [从头开始用 Python 构建自己的神经网络](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 - [在 Python 中使用线性回归，无需使用 sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
@@ -419,9 +401,7 @@ camp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
 - [构建条形码扫描器](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/)
 - [学习人脸聚类](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/)
 - [使用 Camshift 进行对象跟踪](https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf)
-- [OpenCV 和深度
-
-学习进行语义分割](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/)
+- [OpenCV 和深度学习进行语义分割](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/)
 - [在图像和视频中检测文本](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
 - [使用 OpenCV 进行人数统计](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
 - [使用 OpenCV 跟踪多个对象](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
@@ -443,9 +423,7 @@ camp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
 
 ### 深度学习（Deep Learning）:
 
-- [使用卷积神经网络检测面部关键点](http://danielnouri.org/notes/2014/12/
-
-17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+- [使用卷积神经网络检测面部关键点](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 - [使用 TensorFlow 进行图像分类](https://www.tensorflow.org/tutorials/images/classification)
 - [使用 TensorFlow 进行情感分析](https://www.tensorflow.org/tutorials/text/text_classification_rnn)
 - [使用 Keras 进行情感分析](https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e)
